@@ -1,0 +1,6 @@
+c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\G3-labbar\FFCG.FizzBuzz\FFCG.FizzBuzz\bin\Debug\FFCG.FizzBuzz.exe.config
+c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\G3-labbar\FFCG.FizzBuzz\FFCG.FizzBuzz\bin\Debug\FFCG.FizzBuzz.exe
+c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\G3-labbar\FFCG.FizzBuzz\FFCG.FizzBuzz\bin\Debug\FFCG.FizzBuzz.pdb
+c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\G3-labbar\FFCG.FizzBuzz\FFCG.FizzBuzz\obj\Debug\FFCG.FizzBuzz.csprojResolveAssemblyReference.cache
+c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\G3-labbar\FFCG.FizzBuzz\FFCG.FizzBuzz\obj\Debug\FFCG.FizzBuzz.exe
+c:\users\yasmin.lindholm\documents\visual studio 2013\Projects\G3-labbar\FFCG.FizzBuzz\FFCG.FizzBuzz\obj\Debug\FFCG.FizzBuzz.pdb
